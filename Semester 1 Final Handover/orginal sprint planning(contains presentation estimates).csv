@@ -1,0 +1,34 @@
+Story Title,Estimate,Vote Started,Voting Duration,Avg Voting Time,Fastest,Slowest
+SRS - Update based off client meeting,8,5/18/2022 4:07:27 AM,0:01:47,0:01:10,isaac,Sanjay
+SRS - Move all UI content into SRS,2,5/18/2022 4:09:17 AM,0:00:14,0:00:09,Jay,isaac
+SRS - EDITS based off Arlens feedback (awaiting),?,5/18/2022 4:09:33 AM,0:00:29,0:00:11,Filipe,Jay
+UI - student client login,8,5/18/2022 4:10:04 AM,0:00:30,0:00:17,Filipe,Sanjay
+UI - Pick Typeface / ICON Pack,1,5/18/2022 4:10:41 AM,0:00:13,0:00:05,Jay,Sanjay
+UI - UC login page,3,5/18/2022 4:10:57 AM,0:00:28,0:00:12,Filipe,Sanjay
+UI - UC client dashboard,5,5/18/2022 4:11:29 AM,0:00:17,0:00:08,Filipe,isaac
+UI - UC client assessment page,8,5/18/2022 4:11:48 AM,0:00:38,0:00:10,Jay,Filipe
+UI - UC client create assessment,3,5/18/2022 4:12:35 AM,0:00:38,0:00:13,isaac,Jay
+UI - student client dashboard,5,5/18/2022 4:13:16 AM,0:00:15,0:00:05,Jay,isaac
+UI - student client assessment page,8,5/18/2022 4:13:38 AM,0:00:30,0:00:18,Jay,Sanjay
+UI - Mock DESIGNG work,20,5/18/2022 4:14:13 AM,0:00:54,0:00:40,isaac,Jay
+Handover - create document template,2,5/18/2022 4:15:09 AM,0:00:14,0:00:10,isaac,Filipe
+Handover - Basic plan for handover,3,5/18/2022 4:15:26 AM,0:00:21,0:00:14,isaac,Jay
+Handover - Create tickets for next semester,3,5/18/2022 4:15:50 AM,0:00:14,0:00:05,Jay,isaac
+Handover - Workout blocker tickets for next semester,3,5/18/2022 4:16:32 AM,0:00:40,0:00:36,Sanjay,Jay
+Handover - Dependency Matrix,1,5/18/2022 4:17:15 AM,0:00:13,0:00:09,isaac,Jay
+Handover - Appsmith - UC client create assessment,8,5/18/2022 4:17:31 AM,0:00:25,0:00:17,Jay,isaac
+Handover - Appsmith - Student Client Dashboard,8,5/18/2022 4:18:01 AM,0:00:16,0:00:07,Jay,Sanjay
+Handover - Appsmith - UC client dashboard,8,5/18/2022 4:18:19 AM,0:00:14,0:00:08,Sanjay,isaac
+Handover - Appsmith - UC client assessment page,5,5/18/2022 4:18:36 AM,0:00:26,0:00:16,Filipe,Jay
+Handover - Generate test data for database,5,5/18/2022 4:19:05 AM,0:00:14,0:00:07,isaac,Sanjay
+Handover - Monorepo setup,1,5/18/2022 4:19:22 AM,0:00:27,0:00:14,isaac,Filipe
+Handover - database setup,3,5/18/2022 4:19:52 AM,0:00:15,0:00:08,Filipe,Sanjay
+Handover - Cloud setup of Appsmith/Postgres,2,5/18/2022 4:20:08 AM,0:00:30,0:00:23,isaac,Filipe
+Handover - planning poke for future tickets,13,5/18/2022 4:20:41 AM,0:00:17,0:00:10,isaac,Sanjay
+Presentation Powerpoint Template,2,5/18/2022 4:21:17 AM,0:00:15,0:00:09,isaac,Jay
+Presentation Script Q: What was the problem the group was attempting to solve?,8,5/18/2022 4:21:41 AM,0:00:33,0:00:11,Filipe,Sanjay
+Presentation Script Q: are you on track and what are your plans for the remainder of the project?,3,5/18/2022 4:22:23 AM,0:00:17,0:00:11,Filipe,Jay
+"Presentation Scipt Q: What were the main challenges, and how was each of these overcome?",5,5/18/2022 4:22:42 AM,0:00:07,0:00:04,isaac,Jay
+Presentation Script Q: Why should we care about your project?,3,5/18/2022 4:22:51 AM,0:00:10,0:00:04,Jay,Filipe
+Presentation Practise,13,5/18/2022 4:23:03 AM,0:00:11,0:00:06,Filipe,Sanjay
+,170,,,,,
