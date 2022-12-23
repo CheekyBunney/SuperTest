@@ -1,0 +1,13 @@
+Username   Password
+10110111	uc
+10236121	uc
+10254227	invigilator
+11311921	uc
+11311925	invigilator
+12152830	student
+12321452	student
+12389452	student
+17520121	student
+18457890	student
+18906353	student
+Note the password indicates the role of theu ser
